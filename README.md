@@ -59,7 +59,7 @@
 </head>
 <body>
     <header>
-        <h1>SQL Spēles Apgūšanas Starpnieks</h1>
+        <h1>SQL Spēles apgūšanas starpnieks</h1>
     </header>
     <main>
         <section class="intro">
